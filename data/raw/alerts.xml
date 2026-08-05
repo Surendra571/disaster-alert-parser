@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
+  <identifier>CAP-2025-009</identifier>
+  <info>
+    <event>Severe Weather</event>
+    <urgency>Immediate</urgency>
+    <severity>Severe</severity>
+    <headline>Flash Flood Warning for Coastal District</headline>
+    <area>
+      <areaDesc>Nirmala</areaDesc>
+    </area>
+  </info>
+</alert>

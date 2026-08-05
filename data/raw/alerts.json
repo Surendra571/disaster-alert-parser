@@ -1,0 +1,11 @@
+[
+  {
+    "id": "JSON-001",
+    "event": "Urban Flood",
+    "area": "Nirmala",
+    "severity": "Moderate",
+    "valid_from": "2025-07-17 03:00",
+    "valid_to": "2025-07-18 15:00",
+    "advice": "Avoid low-lying roads."
+  }
+]

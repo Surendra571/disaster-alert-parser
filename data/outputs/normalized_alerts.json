@@ -1,0 +1,52 @@
+[
+  {
+    "alert_id": "JSON-001",
+    "source": "JSON Feed",
+    "hazard_type": "flood",
+    "severity": "Moderate",
+    "urgency": "Unknown",
+    "certainty": "Unknown",
+    "location_name": "Nirmala",
+    "location_id": "DIST-01",
+    "start_time": "2025-07-17T03:00:00",
+    "end_time": "2025-07-18T15:00:00",
+    "recommended_action": "Avoid low-lying roads.",
+    "source_format": "json",
+    "is_duplicate": false,
+    "parse_warnings": []
+  },
+  {
+    "alert_id": "ALERT",
+    "source": "Plaintext Feed",
+    "hazard_type": "other",
+    "severity": "Unknown",
+    "urgency": "Unknown",
+    "certainty": "Unknown",
+    "location_name": "2025-07-17 08:00",
+    "location_id": null,
+    "start_time": null,
+    "end_time": null,
+    "recommended_action": "Moderate",
+    "source_format": "plaintext",
+    "is_duplicate": false,
+    "parse_warnings": [
+      "Unrecognized severity term 'Nirmala' mapped to Unknown"
+    ]
+  },
+  {
+    "alert_id": "CAP-2025-009",
+    "source": "CAP Feed",
+    "hazard_type": "other",
+    "severity": "Severe",
+    "urgency": "Immediate",
+    "certainty": "Unknown",
+    "location_name": "Nirmala",
+    "location_id": "DIST-01",
+    "start_time": null,
+    "end_time": null,
+    "recommended_action": "",
+    "source_format": "cap_xml",
+    "is_duplicate": false,
+    "parse_warnings": []
+  }
+]

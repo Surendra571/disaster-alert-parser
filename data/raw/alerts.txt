@@ -1,0 +1,1 @@
+ALERT|2025-07-17 08:00|Nirmala|Heavy Rainfall|Moderate|Drive carefully in inundated zones.

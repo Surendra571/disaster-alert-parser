@@ -1,0 +1,12 @@
+raw_severity_term,canonical_severity
+Red,Extreme
+RED ALERT,Extreme
+Extreme,Extreme
+Severe,Severe
+Orange,Severe
+High,Severe
+Moderate,Moderate
+Yellow,Moderate
+Watch,Minor
+Advisory,Minor
+Low,Minor

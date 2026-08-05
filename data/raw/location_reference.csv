@@ -1,0 +1,25 @@
+location_id,location_name,location_type,centroid_latitude,centroid_longitude
+DIST-01,Nirmala,District,18.35,73.72
+BLK-01-1,Nirmala Block 1,Block,18.35,73.72
+BLK-01-2,Nirmala Block 2,Block,18.361,73.728
+BLK-01-3,Nirmala Block 3,Block,18.372,73.736
+DIST-02,Suryanagar,District,18.405,73.765
+BLK-02-1,Suryanagar Block 1,Block,18.405,73.765
+BLK-02-2,Suryanagar Block 2,Block,18.416,73.773
+BLK-02-3,Suryanagar Block 3,Block,18.427,73.781
+DIST-03,Devapur,District,18.46,73.81
+BLK-03-1,Devapur Block 1,Block,18.46,73.81
+BLK-03-2,Devapur Block 2,Block,18.471,73.818
+BLK-03-3,Devapur Block 3,Block,18.482,73.826
+DIST-04,Kalyanpur,District,18.515,73.855
+BLK-04-1,Kalyanpur Block 1,Block,18.515,73.855
+BLK-04-2,Kalyanpur Block 2,Block,18.526,73.863
+BLK-04-3,Kalyanpur Block 3,Block,18.537,73.871
+DIST-05,Vanasthal,District,18.57,73.9
+BLK-05-1,Vanasthal Block 1,Block,18.57,73.9
+BLK-05-2,Vanasthal Block 2,Block,18.581,73.908
+BLK-05-3,Vanasthal Block 3,Block,18.592,73.916
+DIST-06,Port Lakshmi,District,18.625,73.945
+BLK-06-1,Port Lakshmi Block 1,Block,18.625,73.945
+BLK-06-2,Port Lakshmi Block 2,Block,18.636,73.953
+BLK-06-3,Port Lakshmi Block 3,Block,18.647,73.961
